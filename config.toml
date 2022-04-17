@@ -1,0 +1,13 @@
+baseURL = 'http://opinions.chymera.eu/'
+languageCode = 'en-us'
+title = 'Chymera.eu'
+
+[markup]
+	[markup.goldmark.renderer]
+		unsafe = true
+
+[params]
+	BookTheme = 'light'
+	OnlyBookLogo = "/logo.png"
+	BookDateFormat = '2006-01-02'
+
