@@ -16,24 +16,24 @@ They can be downloaded manually from here, or — if using Gentoo Linux — via 
 * Mouse:
     * **[mouse-brain-templates-0.5.3](http://chymera.eu/distfiles/mouse-brain-templates-0.5.3.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/mouse-brain-templates-0.5.3.sha512)\], **[mouse-brain-templatesHD-0.5.3](http://chymera.eu/distfiles/mouse-brain-templatesHD-0.5.3.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/mouse-brain-templatesHD-0.5.3.sha512)\]
 * Rat:
-    * **[rat-brain-templates-0.2](http://chymera.eu/distfiles/rat-brain-templates-0.2.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/rat-brain-templates-0.2.sha512)\], **[rat-brain-templatesHD-0.2](http://chymera.eu/distfiles/rat-brain-templatesHD-0.2.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/rat-brain-templatesHD-0.2.sha512)\]
+    * **[rat-brain-templates-0.2](http://chymera.eu/distfiles/rat-brain-templates-0.2.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/rat-brain-templates-0.2.sha512)\]
 
 ### Serotonin Profiling
 
-* BIDS Data:
+* BIDS Data (DRLFOM):
     * **[drlfom_bidsdata-1.1.1](http://chymera.eu/distfiles/drlfom_bidsdata-1.1.1.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/drlfom_bidsdata-1.1.1.sha512)\]
-* Bruker ParaVision Data:
+* Bruker ParaVision Data (IRSABI):
     * **[irsabi_brudata-1.4.1](http://chymera.eu/distfiles/irsabi_brudata-1.4.1.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/irsabi_brudata-1.4.1.sha512)\]
 
 ### Calcium Responses
 
-* BIDS Data:
+* BIDS Data (ZTAU):
     * **[ztau_bidsdata-1.0](http://chymera.eu/distfiles/ztau_bidsdata-1.0.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/ztau_bidsdata-1.0.sha512)\]
     * **[ztau_bidsdata-1.1](http://chymera.eu/distfiles/ztau_bidsdata-1.1.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/ztau_bidsdata-1.1.sha512)\]
 
 ### Dopamine Mapping
 
-* BIDS Data:
+* BIDS Data (OPFVTA):
     * **[opfvta_bidsdata-2.1](http://chymera.eu/distfiles/opfvta_bidsdata-2.1.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/opfvta_bidsdata-2.1.sha512)\]
 * Bruker ParaVision Data:
     * **[opfvta_brudata-2.0](http://chymera.eu/distfiles/opfvta_brudata-2.0.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/opfvta_brudata-2.0.sha512)\]
