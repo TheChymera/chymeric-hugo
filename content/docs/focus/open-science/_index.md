@@ -17,6 +17,9 @@ They can be downloaded manually from here, or — if using Gentoo Linux — via 
     * **[mouse-brain-templates-0.5.3](http://chymera.eu/distfiles/mouse-brain-templates-0.5.3.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/mouse-brain-templates-0.5.3.sha512)\], **[mouse-brain-templatesHD-0.5.3](http://chymera.eu/distfiles/mouse-brain-templatesHD-0.5.3.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/mouse-brain-templatesHD-0.5.3.sha512)\]
 * Rat:
     * **[rat-brain-templates-0.2](http://chymera.eu/distfiles/rat-brain-templates-0.2.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/rat-brain-templates-0.2.sha512)\]
+    * AWRA and MARPN sources, as used by the [rat brain templates generator](https://gitlab.com/FOS-FMI/rat-brain-templates_generator):
+        * **[awra_marpn_rat_brains](http://chymera.eu/distfiles/awra_marpn_rat_brains-1.0.tar.xz)** \[[SHA512](http://chymera.eu/distfiles/awra_marpn_rat_brains-1.0.sha512)\]
+
 
 ### Serotonin Profiling
 
