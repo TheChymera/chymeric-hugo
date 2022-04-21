@@ -11,3 +11,15 @@ title = 'Chymera.eu'
 	OnlyBookLogo = "/logo.png"
 	BookDateFormat = '2006-01-02'
 
+[taxonomies]
+	tag = 'tags'
+
+[menu]
+	[[menu.after]]
+		identifier = 'blog'
+		name = 'Blog'
+		pre = "<b>"
+		url = '/posts/'
+		post = "</b>"
+		weight = -110
+
