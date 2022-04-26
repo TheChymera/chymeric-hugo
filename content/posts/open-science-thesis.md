@@ -3,7 +3,7 @@ layout: post
 title: "Free and Open Science for Your Thesis"
 date: 2014-02-24 18:14:00 +0200
 author: Horea Christian
-tags: [FOSS, science, FOS, LaTeX, PythonTeX, dissertation, open science, tutorial]
+tags: [FOSS, science, research, LaTeX, PythonTeX, dissertation, open science, tutorial]
 ---
 
 Topics such as [open peer review](http://en.wikipedia.org/wiki/Open_peer_review), [open data](http://en.wikipedia.org/wiki/Open_science_data), and [open notebook science](http://en.wikipedia.org/wiki/Open_notebook_science) are of increasing interest to the scientific community.
