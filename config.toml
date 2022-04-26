@@ -1,4 +1,4 @@
-baseURL = 'http://opinions.chymera.eu/'
+baseURL = 'https://chymera.eu/'
 languageCode = 'en-us'
 title = 'Chymera.eu'
 
