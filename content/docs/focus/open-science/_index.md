@@ -33,6 +33,10 @@ They can be downloaded manually from here, or — if using Gentoo Linux — via 
 * BIDS Data (ZTAU):
     * **[ztau_bidsdata-1.0](http://resources.chymera.eu/distfiles/ztau_bidsdata-1.0.tar.xz)** \[[SHA512](http://resources.chymera.eu/distfiles/ztau_bidsdata-1.0.sha512)\]
     * **[ztau_bidsdata-1.1](http://resources.chymera.eu/distfiles/ztau_bidsdata-1.1.tar.xz)** \[[SHA512](http://resources.chymera.eu/distfiles/ztau_bidsdata-1.1.sha512)\]
+* BIDS Data (NVCZ):
+    * **[nvcz_data-0.2.tar.xz](http://resources.chymera.eu/distfiles/nvcz_data-0.2.tar.xz)** \[[SHA512](http://resources.chymera.eu/distfiles/nvcz_data-0.2.sha512)\]
+* Preprocessed BIDS Data (NVCZ):
+    * **[nvcz_preprocessed-1.0.0.tar.xz](http://resources.chymera.eu/distfiles/nvcz_preprocessed-1.0.0.tar.xz)** \[[SHA512](http://resources.chymera.eu/distfiles/nvcz_preprocessed-1.0.0.sha512)\]
 
 ### Dopamine Mapping
 
