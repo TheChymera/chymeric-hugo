@@ -7,8 +7,8 @@ weight: 10
 
 ## Relevant Resources
 
-These resources are made available in support of current projects further detailed on this website.
-This list does not include resources otherwise reposited on [DANDI]({{< relref "dandi" >}}) or other services like IPFS or Zenodo (as are leveraged by [Gentoo Scinence]({{< relref "gentoo-science" >}})).
+The following resources are made available in support of current projects further detailed on this website.
+This list **does not** detail resources otherwise reposited on [DANDI]({{< relref "dandi" >}}) or other services like IPFS or Zenodo (as are leveraged by [Gentoo Scinence]({{< relref "gentoo-science" >}})).
 They can be downloaded manually from here, or — if using Gentoo Linux — via the respective ebuilds from the [Chymeric Overlay](https://github.com/TheChymera/overlay).
 
 ### Brain Templates
