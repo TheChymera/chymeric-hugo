@@ -11,7 +11,7 @@ The standard constitutes (since 2022) in a YAML schema, which can be automatical
 
 ## BEPs
 
-BIDS Enhancement Proposals are (somewhat analogous to e.g. PEPs) the main avenue for extending and updating the standard.
+BIDS Enhancement Proposals (somewhat analogous to e.g. PEPs) are the main avenue for extending and updating the standard.
 Ideally this would be the main work to be done in the context of BIDS and ideally it will have to be done less and less frequently as the standard evolves to cover all common use cases and do so by honing in on core concepts.
 
 I have reviewed and submitted a number of BEPs, if you want my help, simply ping me on GitHub in your proposal.
