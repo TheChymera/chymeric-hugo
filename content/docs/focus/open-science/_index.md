@@ -57,3 +57,6 @@ They can be downloaded manually from here, or — if using Gentoo Linux — via 
 
 * ANTs
     * **[ants_testdata-2.3.4](http://resources.chymera.eu/distfiles/ants_testdata-2.3.4.tar.xz)** \[[SHA512](http://resources.chymera.eu/distfiles/ants_testdata-2.3.4.sha512)\]
+* SAMRI
+    * **[samri_bidsdata-0.3](http://resources.chymera.eu/distfiles/samri_bidsdata-0.3.tar.xz)** \[[SHA512](http://resources.chymera.eu/distfiles/samri_bidsdata-0.3.sha512)\]
+    * **[samri_bindata-0.4](http://resources.chymera.eu/distfiles/samri_bindata-0.4.tar.xz)** \[[SHA512](http://resources.chymera.eu/distfiles/samri_bindata-0.4.sha512)\]
